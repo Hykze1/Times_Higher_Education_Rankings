@@ -1,4 +1,4 @@
-# Times_Higher_Education_Rankings
+# Times_Higher_Education_Rankings 2013-2024
 
 ![THE](https://github.com/Hykze1/Times_Higher_Education_Rankings/assets/100960483/2048ee8b-8ebf-464a-810b-aaa4b34e3f34)
 
